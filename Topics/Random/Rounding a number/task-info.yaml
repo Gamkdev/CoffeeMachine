@@ -1,0 +1,18 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: It rounds a number upwards to the nearest integer
+- text: It rounds a number to the closest integer
+- text: It rounds a number to a specified number of decimals
+- text: It rounds a number downwards to the nearest integer
+files:
+- name: main.js
+  visible: true
+  text: |+
+    // You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/18844#comment
+status: Solved
+record: -1
+local_check: false

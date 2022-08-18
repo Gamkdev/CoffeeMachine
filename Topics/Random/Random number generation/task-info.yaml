@@ -1,0 +1,18 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: The method generates an integer
+- text: It generates a number between 0 (inclusive) and 1 (exclusive)
+- text: The method generates a floating-point number
+- text: It generates a number between 0 (exclusive) and 1 (inclusive)
+files:
+- name: main.js
+  visible: true
+  text: |+
+    // You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/18843#comment
+status: Solved
+record: -1
+local_check: false
